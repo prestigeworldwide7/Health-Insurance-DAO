@@ -73,11 +73,6 @@ To get started with the project, follow these steps:
   npm test
   ```
 
-## Project Structure
-- `/program`: Contains the Solana smart contract code.
-- `/frontend`: React application for the user interface.
-- `/tests`: Test scripts for both smart contracts and frontend.
-
 ## Contributing
 Contributions are welcome! Please follow these steps:
 1. Fork the project.
